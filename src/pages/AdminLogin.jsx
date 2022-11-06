@@ -38,7 +38,7 @@ export const AdminLogin = () => {
         const [email, setEmail] = useState("");
         const [password, setPassword] = useState("");
         const handleSubmit = ()=>{
-              if(email == "admin@gmail.com" && password == "masai"){
+              if(email == "eve.holt@reqres.in" && password == "cityslicka"){
                   alert("Login successfull");
                   navigate("/adminpage");
               }else{

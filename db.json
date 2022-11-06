@@ -1,0 +1,49 @@
+{
+  "employee": [
+    {
+      "name": "Rahul Kumar",
+      "email": "vikashkumarnokha@gmail.com",
+      "phone": "9097736105",
+      "dob": "13/11/1998",
+      "gender": "male",
+      "hobbies": "Reading Books",
+      "id": 5
+    },
+    {
+      "name": "Nitesh Kumar",
+      "email": "vikashkumarnokha@gmail.com",
+      "phone": "9097736105",
+      "dob": "13/11/1998",
+      "gender": "male",
+      "hobbies": "Reading Books",
+      "id": 7
+    },
+    {
+      "name": "dhhhdhd",
+      "email": "email@gmail.com",
+      "phone": "7577577575",
+      "gender": "Female",
+      "hobbies": "cricket",
+      "dob": "2022-11-16",
+      "id": 8
+    },
+    {
+      "name": "dhhhdhd",
+      "email": "email@gmail.com",
+      "phone": "7577577575",
+      "gender": "Female",
+      "hobbies": "cricket",
+      "dob": "2022-11-16",
+      "id": 9
+    },
+    {
+      "name": "dhhhdhd",
+      "email": "email@gmail.com",
+      "phone": "7577577575",
+      "gender": "Female",
+      "hobbies": "cricket",
+      "dob": "2022-11-16",
+      "id": 10
+    }
+  ]
+}
