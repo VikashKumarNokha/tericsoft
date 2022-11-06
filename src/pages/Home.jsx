@@ -99,7 +99,7 @@ export const Home = () => {
           height:image.height,
         }}
       > 
-        {/* <Link> */}
+        <Link to={`${image.title === "ADMIN" ? "/adminlogin" : ""}`}>
         <ImageSrc style={{ backgroundImage: `url(${image.url})` }} />
         <ImageBackdrop className="MuiImageBackdrop-root" />
         <Image>
@@ -118,7 +118,7 @@ export const Home = () => {
             <ImageMarked className="MuiImageMarked-root" />
           </Typography>
         </Image>
-        {/* </Link> */}
+        </Link>
       </ImageButton>
     ))}
   </Box>
